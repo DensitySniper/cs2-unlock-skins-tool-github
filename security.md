@@ -90,13 +90,6 @@
 
 ---
 
-## 📸 Preview
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/83de6ed8-872e-4a01-be14-a547273ba3db" alt="Preview" width="800" />
-</div>
-
----
 
 ## 📋 System Requirements
 
